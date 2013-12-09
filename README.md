@@ -2,3 +2,5 @@ hwmods
 ======
 
 hwmods
+
+hammerwatch mods
